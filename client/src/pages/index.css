@@ -1,0 +1,9 @@
+.container {
+  background-image: url(./book3.jpg);
+  text-align: center;
+  color: rgb(0, 0, 0);
+  width: 70%;
+  padding-bottom: 75px;
+}
+.book{
+    padding-top: 91px;}
